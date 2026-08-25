@@ -1,0 +1,6 @@
+{
+  "name": "Kiado Steak House",
+  "description": "A luxury, premium steakhouse in DHA Phase 8, Karachi offering an exceptional dining atmosphere, artisanal cuts, and memorable hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
